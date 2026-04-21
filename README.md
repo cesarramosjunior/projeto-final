@@ -1,0 +1,2 @@
+# Dicas para copiar o projeto
+Esse projeto é uma simulação de um ambiente real de engenharia de dados. Entenda o codigo como uma aula para entender como confugurar um setup profissional e subir no GitHub.
